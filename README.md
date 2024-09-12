@@ -44,7 +44,7 @@ View all contacts: List all contacts in the system.
 Count contacts: Show the total number of contacts.
 Exit: Exit the program.
 
-
+File Persistence:
 Loading Contacts: Contacts are loaded from contacts.json when the program starts.
 Saving Contacts: Contacts are saved to contacts.json after each modification (add, update, delete).
 Troubleshooting
